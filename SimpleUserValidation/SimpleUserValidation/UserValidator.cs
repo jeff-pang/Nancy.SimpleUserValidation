@@ -21,7 +21,7 @@ namespace SimpleUserValidation
                     var reader = cmd.ExecuteReader();
                     string username = reader.GetString("username");
                     string pwd = reader.GetString("password");
-                    if (pwd == password)
+                    if (username == userid && pwd == password)
                     {
                         var claims = new List<string>();
                         claims.Add("basicrole");

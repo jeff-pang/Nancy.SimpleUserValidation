@@ -3,4 +3,4 @@ Simple Nancy Self Host with Basic Auth to Mocked Database
 
 
 
-[[https://github.com/jeff-pang/Nancy.SimpleUserValidation/blob/master/login.png|alt=login login]]
+![Image of login](https://github.com/jeff-pang/Nancy.SimpleUserValidation/blob/master/login.png)

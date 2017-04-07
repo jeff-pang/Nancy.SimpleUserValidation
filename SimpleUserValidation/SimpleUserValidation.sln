@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleUserValidation", "SimpleUserValidation\SimpleUserValidation.csproj", "{B2515701-2D59-473A-889C-5B840BDBBE35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockDatabase", "MockDatabase\MockDatabase.csproj", "{545C5CD9-A162-4B95-8F19-C7E564FBE72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2515701-2D59-473A-889C-5B840BDBBE35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2515701-2D59-473A-889C-5B840BDBBE35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2515701-2D59-473A-889C-5B840BDBBE35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2515701-2D59-473A-889C-5B840BDBBE35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545C5CD9-A162-4B95-8F19-C7E564FBE72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545C5CD9-A162-4B95-8F19-C7E564FBE72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545C5CD9-A162-4B95-8F19-C7E564FBE72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545C5CD9-A162-4B95-8F19-C7E564FBE72F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
